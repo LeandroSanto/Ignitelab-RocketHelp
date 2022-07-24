@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "328786126705",
+    "project_id": "rockethelp-aad45",
+    "storage_bucket": "rockethelp-aad45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328786126705:android:ed16cd4bf1cb49f3d838d0",
+        "android_client_info": {
+          "package_name": "com.rocketHelp.leandro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328786126705-dodbdjg5o361tgn95gbonmatc3rpt5li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvZDnYSs2HGLHBdPdHcNi402TURAglzAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328786126705-dodbdjg5o361tgn95gbonmatc3rpt5li.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328786126705-sjpn3nsp534mcbd1tltre07adv6ijo28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rocketHelp.leandro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
