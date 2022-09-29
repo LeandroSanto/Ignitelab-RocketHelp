@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/32313981/180632422-26f404cc-8e3a-4e09-9abf-a587b2960e3d.png" width="900" alt="home do rocketHelp">
  </p>
 ## :memo: Descrição
